@@ -1,2 +1,2 @@
-# Kc_calibration
+# Kc_MultiCamCalibration
 Multicam calibration trial.
